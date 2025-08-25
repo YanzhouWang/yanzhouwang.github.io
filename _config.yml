@@ -25,11 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Yanzhou Wang, Ph.D."
   pronouns         : # "he/him"  
-  bio              : "Postdoctoral Associate at Boston University"
+  bio              : "Postdoctoral Associate in the Morphable Biorobotics Lab at Boston University"
   location         : "Boston, Massachusetts"
   employer         : "Boston University"
-  uri              : # URL
+  uri              : # 
   email            : "ywang02@bu.edu" 
+  cv               : "https://docs.google.com/viewer?url=https://docs.google.com/document/d/19cT7anZJWnur9IU9TOtBwTavUA9wH1bzgIEFj5pHfjw/export?format=pdf"
 
   # Academic websites
   academia         : # URL
