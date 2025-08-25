@@ -10,7 +10,7 @@ redirect_from:
 
 *(Updated 8/24/2025)*
 
-Dr. Yanzhou Wang is a Postdoctoral Associate in the [Morphable Biorobotics Lab](https://sites.bu.edu/ranzani-lab/) (MBL) with [Dr. Tommaso Ranzani](https://sites.bu.edu/ranzani-lab/) at Boston University. His research centers on designing computationally efficient frameworks for simulation-driven control of soft robots and flexible medical instruments for task-level surgical autonomy in medical robotics.
+Dr. Yanzhou Wang (王彦洲) is a Postdoctoral Associate in the [Morphable Biorobotics Lab](https://sites.bu.edu/ranzani-lab/) with [Dr. Tommaso Ranzani](https://sites.bu.edu/ranzani-lab/) at Boston University. His research centers on designing computationally efficient frameworks for simulation-driven control of soft robots and flexible medical instruments for task-level surgical autonomy in medical robotics.
 
 Dr. Wang earned his Ph.D. with [Dr. Iulian Iordachita](https://amiro.lcsr.jhu.edu/) and [Dr. Russell Taylor](https://ciis.lcsr.jhu.edu/doku.php) at the [Advanced Medical Instrumentation and Robotics Laboratory](https://amiro.lcsr.jhu.edu) and the [Laboratory for Computational Sensing + Robotics](https://lcsr.jhu.edu/) from Johns Hopkins University in 2025. His dissertation research evolved around modeling, simulation, sensing and control of flexible needles for minimally invasive percutaneous medical interventions.
 
