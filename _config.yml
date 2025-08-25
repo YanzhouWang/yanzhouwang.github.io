@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "About Me"
+title                    : "Yanzhou Wang"
 title_separator          : "-"
 name                     : &name "Yanzhou Wang"
 description              : &description "personal description"
