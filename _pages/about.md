@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-*(Updated 8/24/2025)*
+*(Updated 6/24/2026)*
 
 Dr. Yanzhou Wang (王彦洲) is a Postdoctoral Associate in the [Morphable Biorobotics Lab](https://sites.bu.edu/ranzani-lab/) with [Dr. Tommaso Ranzani](https://sites.bu.edu/ranzani-lab/) at Boston University. His research centers on designing computationally efficient frameworks for simulation-driven control of soft robots and flexible medical instruments for task-level surgical autonomy in medical robotics.
+
+During his postdoctoral work at BU, Dr. Wang develops an end-to-end learning and policy training framework for the lab's Stacked Balloon Actuator (SBA) — a fluid-driven growing soft robot for minimally invasive transcatheter tricuspid valve (TV) repairs. This framework integrates differentiable simulation of learned rheological system dynamics with reinforcement learning for robust closed-loop control under uncertainty. To support clinical deployment, his work also addresses graphical user interface (GUI) implementation, haptic device integration, optimal state estimation via multi-modal sensor fusion, and asynchronous I/O with distributed communication for real-time robot operation.
+
+Dr. Wang was the principal driver of Boston University's response to the [ARPA-H Autonomous Interventions and Robotics (AIR) program](https://arpa-h.gov/explore-funding/programs/air) - an initiative aiming to enable robots to autonomously treat ischemic stroke in remote locations, leading a multi-institutional team that secured a combined award over $30M over five years.
 
 Dr. Wang earned his Ph.D. with [Dr. Iulian Iordachita](https://amiro.lcsr.jhu.edu/) and [Dr. Russell Taylor](https://ciis.lcsr.jhu.edu/doku.php) at the [Advanced Medical Instrumentation and Robotics Laboratory](https://amiro.lcsr.jhu.edu) and the [Laboratory for Computational Sensing + Robotics](https://lcsr.jhu.edu/) from Johns Hopkins University in 2025. His dissertation research evolved around modeling, simulation, sensing and control of flexible needles for minimally invasive percutaneous medical interventions.
 

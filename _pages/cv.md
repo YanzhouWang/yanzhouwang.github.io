@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mechanical Engineering, Johns Hopkins University, 2021 - 2025
+* M.S.E. in Mechanical Engineering, Johns Hopkins University, 2019 - 2021
+* B.S. in Mechanical Engineering, Case Western Reserve University, 2015 - 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Associate, Boston University, 2025
+  * Supervisor: Dr. Tommaso Ranzani
+  * End-to-end learning and policy training framework integrating differentiable simulation with model-based reinforcement learning
+  * Optimal state estimation via multi-modal sensor fusion for robust closed-loop control
+  * Clinical deployment: GUI implementation, haptic device integration, asynchronous I/O with distributed communication
+  * Principal driver of BU's successful ARPA-H AIR proposal — a $30M+ multi-institutional award
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant, Johns Hopkins University, 2021
+  * Supervisors: Dr. Iulian Iordachita and Dr. Russell Taylor
+  * Flexible needle modeling, simulation, sensing, and autonomous control for percutaneous interventions
+  * Finite element simulation, FBG shape sensing, MRI-conditional robot design
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Soft Robot Modeling
+  * Piecewise Constant Curvature (PCC) and Constant Curvature (CC) kinematic models
+  * Parameter annealing and sensor fusion
+* Machine Learning for Robotics
+  * LSTM-based learned dynamics with aleatoric/epistemic uncertainty
+  * Model-based reinforcement learning (PPO, BPTT, CEM)
+  * Data collection, cleaning, and feature engineering
+* Sensing and Estimation
+  * Camera and EM tracking sensor fusion via Unscented Kalman Filter
+  * Pressure-based contact detection
+  * Fiber Bragg Grating (FBG) shape sensing
+* Robot Control
+  * Real-time control systems with ZeroMQ and Protocol Buffers
+  * Simulation and hardware deployment pipelines
+  * Trapezoidal velocity profiling and constrained random walk sampling
+* Computing and Tools
+  * HPC cluster computing (SCC/SGE)
+  * Python, PyTorch, MATLAB, C/C++
+  * Mechanical design, 3D printing, and fabrication
 
 Publications
 ======
@@ -58,7 +68,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

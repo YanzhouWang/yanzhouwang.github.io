@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yanzhou Wang, Ph.D.",
+    "email": "ywang02@bu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yanzhouwang.github.io",
+    "summary": "Currently employed at Boston University. Postdoctoral Associate in the Morphable Biorobotics Lab at Boston University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boston, Massachusetts",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,65 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://scholar.google.com/citations?user=oozjwdsAAAAJ&hl=en"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Boston University",
+      "position": "Postdoctoral Associate",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisor: Dr. Tommaso Ranzani",
+        "End-to-end learning and policy training framework integrating differentiable simulation with model-based reinforcement learning",
+        "Optimal state estimation via multi-modal sensor fusion for robust closed-loop control",
+        "Clinical deployment: GUI implementation, haptic device integration, asynchronous I/O with distributed communication",
+        "Principal driver of BU's successful ARPA-H AIR proposal \u2014 a $30M+ multi-institutional award"
+      ]
+    },
+    {
+      "company": "Johns Hopkins University",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisors: Dr. Iulian Iordachita and Dr. Russell Taylor",
+        "Flexible needle modeling, simulation, sensing, and autonomous control for percutaneous interventions",
+        "Finite element simulation, FBG shape sensing, MRI-conditional robot design"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Johns Hopkins University",
+      "area": "Ph.D. in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Johns Hopkins University",
+      "area": "M.S.E. in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Case Western Reserve University",
+      "area": "B.S. in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
@@ -66,77 +85,210 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "3D-Printed Semi-Soft Mechanisms inspired by Origami",
+      "publisher": "Proceedings of the NASA/ESA Conference on Adaptive Hardware and Systems",
+      "releaseDate": "2017-07-24",
+      "website": "https://ieeexplore.ieee.org/document/8046373",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Three-Dimensional Printable Origami Twisted Tower: Design, Fabrication, and Robot Embodiment",
+      "publisher": "IEEE Robotics and Automation Letters (RA-L)",
+      "releaseDate": "2017-01-01",
+      "website": "https://ieeexplore.ieee.org/document/7997599",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Fully Actuated Body-Mounted Robotic System for MRI-Guided Lower Back Pain Injections: Initial Phantom and Cadaver Studies",
+      "publisher": "IEEE Robotics and Automation Letters (RA-L)",
+      "releaseDate": "2020-01-01",
+      "website": "https://ieeexplore.ieee.org/document/9134864",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "TWISTER Hand: Underactuated Robotic Gripper Inspired by Origami Twisted Tower",
+      "publisher": "IEEE Transactions on Robotics (T-RO)",
+      "releaseDate": "2020-01-01",
+      "website": "https://ieeexplore.ieee.org/document/8949550",
+      "summary": ""
+    },
+    {
+      "name": "Automated Mosquito Salivary Gland Extractor for PfSPZ-based Malaria Vaccine Production",
+      "publisher": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "releaseDate": "2021-05-30",
+      "website": "https://ieeexplore.ieee.org/document/9560959",
+      "summary": ""
+    },
+    {
+      "name": "Towards Safe In Situ Needle Manipulation for Robot Assisted Lumbar Injection in Interventional MRI",
+      "publisher": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2021-09-28",
+      "website": "https://ieeexplore.ieee.org/document/9636220",
+      "summary": ""
+    },
+    {
+      "name": "An MR-Conditional Needle Driver for Robot-Assisted Spinal Injections: Design Modifications and Evaluations",
+      "publisher": "44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "releaseDate": "2022-07-11",
+      "website": "https://ieeexplore.ieee.org/document/9871596",
+      "summary": ""
+    },
+    {
+      "name": "Evaluation of Needle Driver Designs for Robot-Assisted Needle Insertions Under MRI Guidance",
+      "publisher": "ASME 2022 International Mechanical Engineering Congress and Exposition (IMECE)",
+      "releaseDate": "2022-10-30",
+      "website": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/86663/V004T06A020/1157027",
+      "summary": ""
+    },
+    {
+      "name": "In Situ Flexible Needle Adjustment for MRI-Guided Spinal Injections Based on Finite Element Simulation",
+      "publisher": "2023 International Symposium on Medical Robotics (ISMR)",
+      "releaseDate": "2023-04-19",
+      "website": "https://ieeexplore.ieee.org/document/10130218",
+      "summary": ""
+    },
+    {
+      "name": "Flexible Needle Bending Model for Spinal Injection Procedures",
+      "publisher": "IEEE Robotics and Automation Letters (RA-L)",
+      "releaseDate": "2023-01-01",
+      "website": "https://ieeexplore.ieee.org/document/10024841",
+      "summary": ""
+    },
+    {
+      "name": "Shape Manipulation of Bevel-Tip Needles for Prostate Biopsy Procedures: A Comparison of Two Resolved-Rate Controllers",
+      "publisher": "46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "releaseDate": "2024-07-13",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10781867",
+      "summary": ""
+    },
+    {
+      "name": "Bevel-Tip Needle Deflection Modeling, Simulation, and Validation in Multi-Layer Tissues",
+      "publisher": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+      "releaseDate": "2024-05-13",
+      "website": "https://ieeexplore.ieee.org/document/10610110",
+      "summary": ""
+    },
+    {
+      "name": "An Magnetic Resonance Conditional Robot for Lumbar Spinal Injection: Development and Preliminary Validation",
+      "publisher": "The International Journal of Medical Robotics and Computer Assisted Surgery",
+      "releaseDate": "2024-01-01",
+      "website": "https://onlinelibrary.wiley.com/doi/10.1002/rcs.2618",
+      "summary": ""
+    },
+    {
+      "name": "Simulation-based Flexible Needle Control with Single-core FBG Feedback for Spinal Injections",
+      "publisher": "IEEE Transactions on Medical Robotics and Bionics (T-MRB)",
+      "releaseDate": "2024-01-01",
+      "website": "https://ieeexplore.ieee.org/document/10581411",
+      "summary": ""
+    },
+    {
+      "name": "High-Precision Autonomous Control of Flexible Needles via Real-Time Finite Element Simulation and Cross-Entropy Optimization",
+      "publisher": "IEEE Robotics and Automation Letters (RA-L)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Evaluation of Needle Manipulation Controller Subject to Uncertainty of Tip Pose Feedback: A Simulation Study <i> (Best Student Paper Award) </i>",
+      "publisher": "2025 International Symposium on Medical Robotics (ISMR)",
+      "releaseDate": "2025-05-14",
+      "website": "https://ieeexplore.ieee.org/document/11025973",
+      "summary": ""
+    },
+    {
+      "name": "Flexible Needle Manipulation and Obstacle Avoidance System for Image-Guided Spinal Interventions",
+      "publisher": "2025 International Symposium on Medical Robotics (ISMR)",
+      "releaseDate": "2025-05-14",
+      "website": "https://doi.org/10.1109/ISMR61363.2025.00049",
+      "summary": ""
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Origami-inspired Semi-soft Compliant Gripper for Pick-and-place Task",
+      "event": "The 2018 Rockwell Automation Fair",
+      "date": "2018-11-13",
+      "location": "Philadelphia, PA, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Towards Safe In Situ Needle Manipulation for Robot Assisted Lumbar Injection in Interventional MRI",
+      "event": "The 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems ",
+      "date": "2021-09-28",
+      "location": "Prague, Czech Republic",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "An MR-Conditional Needle Driver for Robot-Assisted Spinal Injections: Design Modifications and Evaluations",
+      "event": "44th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "date": "2022-07-11",
+      "location": "Glasgow, Scotland, UK",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "In Situ Flexible Needle Adjustment for MRI-Guided Spinal Injections Based on Finite Element Simulation",
+      "event": "2023 International Symposium on Medical Robotics ",
+      "date": "2023-04-19",
+      "location": "Atlanta, GA, USA",
+      "description": ""
+    },
+    {
+      "name": "Flexible Needle Bending Model for Spinal Injection Procedures",
+      "event": "The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems ",
+      "date": "2023-10-04",
+      "location": "Detroit, MI, USA",
+      "description": ""
+    },
+    {
+      "name": "Simulation-based Flexible Needle Control with Single-core FBG Feedback for Facet Joint Injections",
+      "event": "The 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+      "date": "2023-10-05",
+      "location": "Detroit, MI, USA",
+      "description": ""
+    },
+    {
+      "name": "Bevel-Tip Needle Deflection Modeling, Simulation, and Validation in Multi-Layer Tissues",
+      "event": "2024 IEEE International Conference on Robotics and Automation",
+      "date": "2024-05-13",
+      "location": "Yokohama, Japan",
+      "description": ""
+    },
+    {
+      "name": "Shape Manipulation of Bevel-tip Needles for Prostae Biopsy Procedures: A Comparison of Two Resolved-Rate Controllers",
+      "event": "The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "date": "2024-07-16",
+      "location": "Orlando, FL, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Algorithms for Sensor Based Robotics",
+      "institution": "Johns Hopkins University, Department of Computer Science",
+      "date": "2020-01-01",
+      "role": "Graduate Course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Robot Motion Planning",
+      "institution": "Johns Hopkins University, Department of Mechanical Engineering",
+      "date": "2021-09-01",
+      "role": "Graduate Course",
+      "description": ""
+    },
+    {
+      "course": "Robot Devices, Kinematics, Dynamics, and Control",
+      "institution": "Johns Hopkins University, Department of Mechanical Engineering",
+      "date": "2022-09-01",
+      "role": "Graduate Course",
+      "description": ""
+    },
+    {
+      "course": "Kinematics",
+      "institution": "Johns Hopkins University, Department of Mechanical Engineering",
+      "date": "2021-01-01",
+      "role": "Graduate Course",
       "description": ""
     }
   ],
