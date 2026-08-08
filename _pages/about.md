@@ -10,7 +10,7 @@ redirect_from:
 
 *(Updated 6/24/2026)*
 
-Dr. Yanzhou Wang (王彦洲) is a Postdoctoral Associate in the [Morphable Biorobotics Lab](https://sites.bu.edu/ranzani-lab/) with [Dr. Tommaso Ranzani](https://sites.bu.edu/ranzani-lab/) at Boston University. His research centers on designing computationally efficient frameworks for simulation-driven control of soft robots and flexible medical instruments for task-level surgical autonomy in medical robotics.
+Dr. Yanzhou Wang (王彦洲) is a Research Scientist in the [Morphable Biorobotics Lab](https://sites.bu.edu/ranzani-lab/) with [Dr. Tommaso Ranzani](https://sites.bu.edu/ranzani-lab/) at Boston University. His research centers on designing computationally efficient frameworks for simulation-driven control of soft robots and flexible medical instruments for task-level surgical autonomy in medical robotics.
 
 During his postdoctoral work at BU, Dr. Wang develops an end-to-end learning and policy training framework for the lab's Stacked Balloon Actuator (SBA) — a fluid-driven growing soft robot for minimally invasive transcatheter tricuspid valve (TV) repairs. This framework integrates differentiable simulation of learned rheological system dynamics with reinforcement learning for robust closed-loop control under uncertainty. To support clinical deployment, his work also addresses graphical user interface (GUI) implementation, haptic device integration, optimal state estimation via multi-modal sensor fusion, and asynchronous I/O with distributed communication for real-time robot operation.
 
